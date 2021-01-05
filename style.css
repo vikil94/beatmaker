@@ -46,6 +46,10 @@ svg {
 	background: rgb(74, 193, 223);
 }
 
+.mute.active {
+    background:rgb(182, 182, 182);
+}
+
 .sequencer {
 	display: flex;
 	min-height: 100vh;
